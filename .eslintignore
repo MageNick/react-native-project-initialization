@@ -1,0 +1,8 @@
+src/serviceWorker.js
+src/setupTests.js
+.idea
+public
+node_modules
+coverage
+metro.config.js
+babel.config.js
